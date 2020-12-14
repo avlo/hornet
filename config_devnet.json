@@ -122,7 +122,7 @@
     "alias": "",
     "showAliasInGetNodeInfo": false,
     "disablePlugins": [],
-    "enablePlugins": []
+    "enablePlugins": ["MQTT"]
   },
   "spammer": {
     "address": "HORNET99INTEGRATED99SPAMMER999999999999999999999999999999999999999999999999999999",
